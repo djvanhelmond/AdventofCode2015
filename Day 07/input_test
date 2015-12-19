@@ -1,0 +1,6 @@
+1 -> x
+456 -> y
+x AND y -> d
+1 AND 1 -> e
+NOT 1 -> g
+y -> f
