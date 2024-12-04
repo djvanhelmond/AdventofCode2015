@@ -1,6 +1,5 @@
 from itertools import permutations
 
-lines = list()
 persons = dict()
 
 class Person:
